@@ -7,3 +7,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [React-loable](https://www.npmjs.com/package/react-loadable)
 - [React Router Hash Link: best for routing](https://www.npmjs.com/package/react-router-hash-link) 
 - [react-scroll: inside page sroll, offset etc!](https://www.npmjs.com/package/react-scroll) 
+- [react-helmet: meta discription, title for components](https://www.npmjs.com/package/react-helmet) 
