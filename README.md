@@ -11,3 +11,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [react-helmet: meta discription, title for components](https://www.npmjs.com/package/react-helmet) 
 - [render images using mapping, js example](https://stackoverflow.com/questions/63000540/how-to-make-horizontal-scroll-with-arrow-in-react-js)
 - [React LiquidSwipe](https://reactjsexample.com/a-smooth-component-transition-animation-with-react-liquid-swipe-effect/)
+- [React scroll motion: with paralax effect](https://www.npmjs.com/package/react-scroll-motion)
