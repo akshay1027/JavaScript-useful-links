@@ -14,3 +14,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [React scroll motion: with paralax effect](https://www.npmjs.com/package/react-scroll-motion)
 - [css guide](https://web.dev/learn/css/)
 - [colours guide](https://coolors.co/)
+- [Invoice Generator example](https://github.com/tuanpham-dev/react-invoice-generator)
