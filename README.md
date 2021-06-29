@@ -1,5 +1,5 @@
 # React Useful packages | websites | components
-React packages packages | websites | components that are damn useful, saves time!
+React packages packages | websites | components that are damn useful, saves time! Practical Learning
 
 - [React scripts website: get reusable components](https://reactscript.com/)
 - [React example website: get reusable components ](https://reactjsexample.com/)
