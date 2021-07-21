@@ -17,3 +17,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [Invoice Generator example](https://github.com/tuanpham-dev/react-invoice-generator)
 - [Substring function to display particular chars](https://stackoverflow.com/questions/39886730/javascript-how-to-get-first-three-characters-of-a-string)
 - [Koder - best website for awesome, practical projects](https://bezkoder.com/)
+- [optional chaining ( ignore undefined )](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
