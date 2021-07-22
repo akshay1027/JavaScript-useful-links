@@ -18,6 +18,6 @@ React packages packages | websites | components that are damn useful, saves time
 - [Substring function to display particular chars](https://stackoverflow.com/questions/39886730/javascript-how-to-get-first-three-characters-of-a-string)
 - [Koder - best website for awesome, practical projects](https://bezkoder.com/)
 - [Optional chaining ( ignore undefined )](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
-- [Loop over form data and console.log values](https://developer.mozilla.org/en-US/docs/Web/API/FormData/entries)
+- [Loop over formData and console.log values](https://developer.mozilla.org/en-US/docs/Web/API/FormData/entries)
 - [Javascript (if else inside jsx)](https://stackoverflow.com/questions/44046037/if-else-statement-inside-jsx-reactjs)
 - [Check color contrast](https://contrast-ratio.com/)
