@@ -24,4 +24,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [Material UI textArea useing textField](https://stackoverflow.com/questions/46393703/text-area-in-material-ui)
 - [JavaScript Polling](https://dev.to/jakubkoci/polling-with-async-await-25p4)
 - [Undefined image || prefill image || dummy upload image](https://i.stack.imgur.com/y9DpT.jpg)
-- [Loop over object and conditionally change value of different keys] (https://github.com/akshay1027/ReactSnippets/blob/main/LoopOverObject.tsx)
+- [Loop over object and conditionally change value of different keys](https://github.com/akshay1027/ReactSnippets/blob/main/LoopOverObject.tsx)
