@@ -26,3 +26,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [Undefined image || prefill image || dummy upload image](https://i.stack.imgur.com/y9DpT.jpg)
 - [Loop over object and conditionally change value of different keys](https://github.com/akshay1027/ReactSnippets/blob/main/LoopOverObject.tsx)
 - [xss react](https://stackoverflow.com/questions/33644499/what-does-it-mean-when-they-say-react-is-xss-protected)
+- [Why use objectId as type when referring to another modal in mongoose?](https://mongoosejs.com/docs/populate.html)
