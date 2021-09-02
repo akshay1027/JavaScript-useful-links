@@ -28,3 +28,4 @@ React packages packages | websites | components that are damn useful, saves time
 - [xss react](https://stackoverflow.com/questions/33644499/what-does-it-mean-when-they-say-react-is-xss-protected)
 - [Why use objectId as type when referring to another modal in mongoose?](https://mongoosejs.com/docs/populate.html)
 - [Implement Express-Validator in seperate file(Middleware)](https://stackoverflow.com/questions/55772477/how-to-implement-validation-in-a-separate-file-using-express-validator?rq=1)
+- [Async Await explained beautifully](https://stackoverflow.com/questions/46004290/will-async-await-block-a-thread-node-js)
